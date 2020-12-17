@@ -3,6 +3,10 @@
     {
       "name": "datos",
       "data": 1003
+    },
+    {
+      "name": "datos2",
+      "data": 1004
     }
   ],
   "profile": {
