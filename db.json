@@ -1,9 +1,14 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "hello"
+      "name": "1200",
+      "data": 1000
+    },
+    {
+      "name": "1300",
+      "data": 100
     }
+    
   ],
   "profile": {
     "name": "typicode"
