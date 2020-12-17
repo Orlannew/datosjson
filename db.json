@@ -1,8 +1,8 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "hello"
+      "name": "datos",
+      "data": 100
     }
   ],
   "profile": {
