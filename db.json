@@ -1,15 +1,14 @@
-{
-  "posts": [
-    {
-      "name": "datos",
-      "data": 1003
-    },
-    {
-      "name": "datos2",
-      "data": 1004
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "name": "1000-1100",
+    "data": 322
+  },
+  {
+    "name": "1110-1200",
+    "data": 345
+  },
+  {  "name": "1110-1200",
+    "data": 345
+ 
   }
-}
+]
