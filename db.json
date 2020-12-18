@@ -2,11 +2,11 @@
   "posts": [
     {
       "name": "dato1",
-      "data": [100,200]
+      "data": [100,200],
       "categories":["2016","2019"]
     }, {
       "name": "dato2",
-      "data": [150,300]
+      "data": [150,300],
       "categories":["2016","2019"]
     }
     
